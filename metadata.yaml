@@ -1,0 +1,28 @@
+_repo: Overland--13-A-Novel_12335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Forest, John William
+    aliases:
+    - De Forest, J. W. (John William)
+    - Forest, John William de
+    birthdate: 1826
+    deathdate: 1906
+    gutenberg_agent_id: '4323'
+    url: http://www.gutenberg.org/2009/agents/4323
+    wikipedia: http://en.wikipedia.org/wiki/John_William_De_Forest
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Mexico -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Overland: A Novel'
+url: http://www.gutenberg.org/ebooks/12335
